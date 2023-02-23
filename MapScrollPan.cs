@@ -1,3 +1,6 @@
+//Add this script to a Sptite Image(Map Image)
+//Add Scroll Rect & Rect Mask 2D to the Image parent and assign Image to Rect scroll
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=fRqqef8246Q
+video referance
+
+1. Add DoTween plugin for DG.TWeening library

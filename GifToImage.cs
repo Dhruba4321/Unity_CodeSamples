@@ -1,3 +1,9 @@
+/// <comments>
+/// import Unigif library plugin before work with this script
+/// Here is the github repo for UniGif
+/// https://github.com/WestHillApps/UniGif.git
+/// </comments>
+
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
